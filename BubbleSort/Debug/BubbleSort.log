@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\markus\source\repos\bubblesort\bubblesort\source.cpp(27): warning C4018: '<=': signed/unsigned mismatch
+  BubbleSort.vcxproj -> C:\Users\markus\source\repos\BubbleSort\Debug\BubbleSort.exe
